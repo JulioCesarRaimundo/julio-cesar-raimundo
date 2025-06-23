@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-Ou, se for um módulo:
+
 
 ```python
 from seu_projeto import exemplo
