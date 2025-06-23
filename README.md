@@ -20,18 +20,6 @@ python main.py
 
 
 ```python
-from seu_projeto import exemplo
-
-exemplo.funcao_principal()
-
-## Contribuindo
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`)
-3. Commit suas mudanças (`git commit -m 'feat: minha nova feature'`)
-4. Dê push para a branch (`git push origin minha-feature`)
-5. Abra um Pull Request
-
-## Licença
+>>> print("ola mundo!")
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
